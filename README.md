@@ -5,15 +5,21 @@ To develop a linear Regression model that predicts the price of a house based on
 
 ## key steps 
 -- imported housing dataset 
+
 -- handled missing values and encoded categorical variables
+
 -- visualized correlations between features and price 
+
 -- trianed a Linear Regressipn model 
+
 -- evaluated preformance using RMSE and R^2 score 
 
 ## tools and Libraries
 
 -- pandas , numpy 
+
 -- seaborn , Matplotlib
+
 -- Scikit-Learn 
 
 ## outcome
